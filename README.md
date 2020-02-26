@@ -2,8 +2,8 @@
 Curso da Udemy: "Aprendendo programação básica e avançada com Linguagem C++"
 
 ATALHOS:
-ALT + SHIFT + ENTER  - MAXIMIZAR TELA DO CÓDIGO
-CTRL + K + C - COMENTAR A FRASE
-CTRL + SHIFT + B - COMPILAR CÓDIGO
+ALT + SHIFT + ENTER  - MAXIMIZAR TELA DO CÓDIGO \n
+CTRL + K + C - COMENTAR A FRASE \n
+CTRL + SHIFT + B - COMPILAR CÓDIGO \n
 CTRL + F5 - EXECUTA O PROGRAMA
 
